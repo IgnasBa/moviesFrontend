@@ -1,0 +1,26 @@
+body {
+    background: #120458
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    font-family: 'Hind Madurai', sans-serif;
+}
+button {
+    border-radius: 8px;
+    background: #ff124f;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    height: 56px;
+    width: 208px;
+}
+
+img {
+    border-radius: 16px;
+}
